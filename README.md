@@ -44,7 +44,7 @@ python linear_regression.py
 | Parameter | Value |
 |-----------|-------|
 | Learning rate | 0.001 |
-| Epochs | 10000 |
+| Epochs | 1000 |
 | Initial m | 0 |
 | Initial b | 0 |
 
