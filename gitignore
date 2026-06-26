@@ -1,17 +1,21 @@
 # Python
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
+
+**pycache**/
+_.py[cod]
+_.pyo
+\*.pyd
 .Python
 env/
 venv/
-.env
+.env.
+workspace/
 
 # IDE
+
 .vscode/
 .idea/
 
 # OS
+
 .DS_Store
 Thumbs.db
