@@ -58,7 +58,7 @@ Two plots are produced side by side:
 
 | Regression line | Loss curve |
 |---|---|
-| Scatter plot of data with the fitted line | MSE decreasing over 10,000 epochs |
+| Scatter plot of data with the fitted line | MSE decreasing over 1,000 epochs |
 
 ## Dataset
 
