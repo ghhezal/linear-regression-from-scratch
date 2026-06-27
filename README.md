@@ -1,6 +1,6 @@
-# Linear Regression from Scratch
+# Linear Regression | Gradient Descent
 
-A linear regression model built **from scratch in Python** using gradient descent — no scikit-learn or ML libraries used.
+A linear regression model built **from scratch in Python** using gradient descent, no scikit-learn or ML libraries used.
 
 ## What it does
 
