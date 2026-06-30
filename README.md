@@ -73,3 +73,8 @@ Two plots are produced side by side:
 - Implemented gradient descent from scratch without any ML library
 - Debugged convergence issues by analyzing the effect of learning rate and epoch count on the loss curve
 - Understood why the cost function averages over all examples (vs single-example loss)
+
+
+## Author
+
+**Amine Ghezal**
